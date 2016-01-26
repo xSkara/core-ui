@@ -953,7 +953,7 @@ a:hover > .button-edit, a:not(.no-remove):hover > .button-delete{
     width: 20px;
     height: 20px;
     margin: 2px 0 0 2px;
-    background: url(/resources/images/icons_20x20.png?is20140903) no-repeat -100px -20px;
+    background: url(resources/images/icons_20x20.png?is20140903) no-repeat -100px -20px;
 }
 
 .gridRow div .calendarButton {
@@ -1265,12 +1265,12 @@ a:hover > .button-edit, a:not(.no-remove):hover > .button-delete{
     z-index: 9999;
     display: none;
     color: #0575bd;
-    background: url(/resources/images/loading.gif?is20140903) no-repeat 5px 100%;
+    background: url(resources/images/loading.gif?is20140903) no-repeat 5px 100%;
 }
 
 .select_entity_loading {
     display: none;
-    background: url(/resources/images/background_opacity75.png?is20140903) 0 0 repeat #fff;
+    background: url(resources/images/background_opacity75.png?is20140903) 0 0 repeat #fff;
     z-index: 101;
     height: 5px;
 }
@@ -1427,7 +1427,7 @@ border: 1px solid #F1CA58 !important;*/
     right: 0;
     top: 0;
     bottom: 0;
-    background: url(/resources/images/background_opacity75.png?is20140903) 0 0 repeat;
+    background: url(resources/images/background_opacity75.png?is20140903) 0 0 repeat;
     z-index: 300;
 }
 
@@ -1440,7 +1440,7 @@ border: 1px solid #F1CA58 !important;*/
     left: 50%;
     top: 50%;
     color: #0575bd;
-    background: url(/resources/images/loading.gif?is20140903) 0 0 no-repeat;
+    background: url(resources/images/loading.gif?is20140903) 0 0 no-repeat;
 }
 
 .loading span {
@@ -1454,7 +1454,7 @@ border: 1px solid #F1CA58 !important;*/
     font-weight: 500;
     position: absolute;
     top: 50%;
-    background: url(/resources/images/loading.gif?is20140903) 50% 100% no-repeat;
+    background: url(resources/images/loading.gif?is20140903) 50% 100% no-repeat;
 }
 
 .loading__img {
@@ -1463,7 +1463,7 @@ border: 1px solid #F1CA58 !important;*/
     text-align: center;
     color: #0575bd;
     font-weight: 500;
-    background: url(/resources/images/loading.gif?is20140903) 50% 100% no-repeat;
+    background: url(resources/images/loading.gif?is20140903) 50% 100% no-repeat;
 }
 
 .loading__message {
@@ -1487,7 +1487,7 @@ span.loading__txt {
     position: absolute;
     left: 0;
     top: 50%;
-    background: url(/resources/images/loading.gif?is20140903) 50% 100% no-repeat;
+    background: url(resources/images/loading.gif?is20140903) 50% 100% no-repeat;
 }
 
 .defaultLoading {
@@ -1499,7 +1499,7 @@ span.loading__txt {
     text-align: center;
     color: #0575bd;
     font-size: 18px;
-    background: url(/resources/images/loading.gif?is20140903) 50% 100% no-repeat;
+    background: url(resources/images/loading.gif?is20140903) 50% 100% no-repeat;
 }
 
 /*------------------------------  Dialog Windows  -------------------------------*/
@@ -1570,7 +1570,7 @@ span.loading__txt {
     width: 10px;
     height: 10px;
     margin: 5px 0 0 6px;
-    background: url(/resources/images/icons_20x20.png?is20140903) no-repeat scroll -290px -20px;
+    background: url(resources/images/icons_20x20.png?is20140903) no-repeat scroll -290px -20px;
     display: block;
     overflow: hidden;
     line-height: 50em;
@@ -1749,7 +1749,7 @@ span.loading__txt {
 .big-mask .ajax {
     width: 100px;
     height: 25px;
-    background: url(/resources/images/loading.gif?is20140903) 50% 100% no-repeat;
+    background: url(resources/images/loading.gif?is20140903) 50% 100% no-repeat;
     position: absolute;
     left: 50%;
     top: 50%;
@@ -1767,7 +1767,7 @@ span.loading__txt {
     top: 0;
     bottom: 0;
     right: 0;
-    background: url(/resources/images/background_opacity75.png?is20140903) 0 0 repeat;
+    background: url(resources/images/background_opacity75.png?is20140903) 0 0 repeat;
 }
 
 .notification {
@@ -1996,7 +1996,7 @@ noindex:-o-prefocus, .number_input input {
 }
 
 .hboxChild.resizer {
-    background: #fff url(/resources/images/column_shadown_left.png?is20140903) 50% 0 repeat-y;
+    background: #fff url(resources/images/column_shadown_left.png?is20140903) 50% 0 repeat-y;
     cursor: col-resize;
 }
 
@@ -2172,7 +2172,7 @@ noindex:-o-prefocus, .number_input input {
 .loadingfile {
     width: 100%;
     height: 15px;
-    background: url(/resources/images/loading.gif?is20140903) 50% 100% no-repeat;
+    background: url(resources/images/loading.gif?is20140903) 50% 100% no-repeat;
     margin-top: -10px;
 }
 

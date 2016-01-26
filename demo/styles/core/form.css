@@ -1109,7 +1109,7 @@ input[type="checkbox"].checkbox {
     vertical-align: middle;
     visibility: hidden;
     cursor: pointer;
-    background: no-repeat 0 -460px url(/resources/images/icons_16x16.png?is20140903);
+    background: no-repeat 0 -460px url(../../resources/images/icons_16x16.png?is20140903);
     z-index: 9;
     transition: visibility .1s;
 }
