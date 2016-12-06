@@ -15,6 +15,7 @@ const path = require('path');
 const autoprefixer = require('autoprefixer');
 const ExtractTextPlugin = require('extract-text-webpack-plugin');
 const _ = require('lodash');
+const nodeExternals = require('webpack-node-externals');
 
 const pathResolver = {
     client: function () {
@@ -48,6 +49,9 @@ module.exports = {
             cache: true,
             devtool: TEST ? 'inline-source-map' : 'source-map',
             debug: true,
+            externals: [
+                nodeExternals()
+            ],
             module: {
                 loaders: [
                     {
